@@ -11,6 +11,6 @@ public class Rectangle {
     }
 
     public double area() {
-        return this.a + this.b;
+        return this.a * this.b;
     }
 }
